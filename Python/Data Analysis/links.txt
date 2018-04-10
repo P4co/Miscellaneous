@@ -1,0 +1,5 @@
+http://home.agh.edu.pl/~vlsi/AI/backp_t_en/backprop.html
+https://sites.google.com/site/itmintearti/home/redes-neuronales
+https://gitlab.com/efrain_orozco/perceptron-multicapa
+https://books.google.com.ec/books?id=dRHoAwAAQBAJ&pg=PA296&lpg=PA296&dq=weight+by+svm&source=bl&ots=SA-jKjOPax&sig=f59dOSuKhlbxw1tehn_NPbU4hsM&hl=es&sa=X&ved=0ahUKEwj-lsjNjuLUAhWOZiYKHb5kCTU4ChDoAQggMAA#v=onepage&q=weight%20by%20svm&f=false
+http://machinelearningmastery.com/implement-backpropagation-algorithm-scratch-python/

@@ -1,0 +1,15 @@
+1.4 Gui_TicTacToe
+https://datarecipe.wordpress.com/2015/07/26/python-practice-a-tic-tac-toe-game-with-dfs/
+
+1.3 1.3 console_TicTacToe
+http://stackoverflow.com/questions/22285833/python-tic-tac-toe-game
+
+1.1
+DFS AND BFS GRAPH TRAVERSAL
+http://code.activestate.com/recipes/576723-dfs-and-bfs-graph-traversal/
+
+1.2 dfs bfs path
+http://eddmann.com/posts/depth-first-search-and-breadth-first-search-in-python/
+
+
+https://www.google.com.ec/search?q=bfs+and+dfs+python&oq=bfs+and+dfs+algorithm+py&aqs=chrome.1.69i57j0.6384j0j7&sourceid=chrome&ie=UTF-8
