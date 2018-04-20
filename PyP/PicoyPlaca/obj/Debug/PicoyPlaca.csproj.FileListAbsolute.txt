@@ -1,0 +1,10 @@
+c:\users\francisco.espinel\source\repos\PicoyPlaca\PicoyPlaca\bin\Debug\PicoyPlaca.exe.config
+c:\users\francisco.espinel\source\repos\PicoyPlaca\PicoyPlaca\bin\Debug\PicoyPlaca.exe
+c:\users\francisco.espinel\source\repos\PicoyPlaca\PicoyPlaca\bin\Debug\PicoyPlaca.pdb
+c:\users\francisco.espinel\source\repos\PicoyPlaca\PicoyPlaca\obj\Debug\PicoyPlaca.csprojResolveAssemblyReference.cache
+c:\users\francisco.espinel\source\repos\PicoyPlaca\PicoyPlaca\obj\Debug\PicoyPlaca.Form1.resources
+c:\users\francisco.espinel\source\repos\PicoyPlaca\PicoyPlaca\obj\Debug\PicoyPlaca.Properties.Resources.resources
+c:\users\francisco.espinel\source\repos\PicoyPlaca\PicoyPlaca\obj\Debug\PicoyPlaca.csproj.GenerateResource.cache
+c:\users\francisco.espinel\source\repos\PicoyPlaca\PicoyPlaca\obj\Debug\PicoyPlaca.csproj.CoreCompileInputs.cache
+c:\users\francisco.espinel\source\repos\PicoyPlaca\PicoyPlaca\obj\Debug\PicoyPlaca.exe
+c:\users\francisco.espinel\source\repos\PicoyPlaca\PicoyPlaca\obj\Debug\PicoyPlaca.pdb
